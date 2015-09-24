@@ -31,7 +31,7 @@ public class Solution {
     }
     
 }
-//solution using digital root
+//solution using digital root congruence formula
 //https://en.wikipedia.org/wiki/Digital_root
 public class Solution {
     public int addDigits(int num) {
